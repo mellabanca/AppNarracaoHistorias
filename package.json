@@ -27,7 +27,8 @@
     "react-native-safe-area-context": "3.3.2",
     "react-native-responsive-fontsize": "^0.5.0",
     "@react-native-community/masked-view": "0.1.10",
-    "@react-navigation/material-bottom-tabs": "^6.2.1"
+    "@react-navigation/material-bottom-tabs": "^6.2.1",
+    "react-native-dropdown-picker": "^4.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
